@@ -1,12 +1,13 @@
-# myapp
+# Learning Git and Github
 
-This is my app
 
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
 
-You can contact me professionally pon 
-http://github.com - automatic!
-[GitHub](https://github.com/kenmwangi)
+I have started my Fullstack Web Development by learning how to use git.
+
+You can contact me professionally on 
+
+[Ken Mwangi](https://github.com/kenmwangi)
