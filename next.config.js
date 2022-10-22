@@ -6,7 +6,7 @@ const nextConfig = {
   swcMinify: true,
   trailingSlash: true,
   basePath: isProd ? '/my-app' : '',
-  // pageExtensions: ['page.tsx'],
+  pageExtensions: ['page.tsx'],
 };
 
 module.exports = nextConfig;
