@@ -40,6 +40,6 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        uses: kenmwangi/github-pages-deploy-action@v4
+        uses: kenmwangi/my-app
         with:
           folder: out
