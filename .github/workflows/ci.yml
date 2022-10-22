@@ -39,8 +39,7 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Deploy
-        uses: kenmwangi/github-pages-deploy-action@v4
-        with:
-          folder: out
-
+      # - name: Deploy
+      #   uses: kenmwangi/github-pages-deploy-action@v4
+      #   with:
+      #     folder: out
